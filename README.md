@@ -30,8 +30,8 @@ We invite professional charity organizations and non-profits to participate in a
 
 ## Disclosure and Independent Status
 
-Fluxpuls is a personal initiative dedicated to AI, research, and creative exploration. This project is developed exclusively in the author's spare time as an independent creative endeavor.
+Fluxpuls is a personal initiative focused on AI, research, and creative exploration. The project is developed entirely in the author’s spare time as an independent creative endeavor.
 
-It is strictly separate from the author's primary professional employment and has no affiliation, partnership, or endorsement from any financial institution, government entity (including the State of New York or City of New York), charity, non-profit, or other organization. No proprietary tools, methodologies, intellectual property, client data, or resources from any employer or external entity are utilized in this project.
+It operates without any affiliation, partnership, or endorsement from financial institutions, government entities (including the State of New York or City of New York), charities, non‑profits, or other organizations. No proprietary tools, methodologies, intellectual property, client data, or resources from external entities are used in this project.
 
-The content provided consists solely of visualizations and educational materials for personal self-improvement. It does not constitute financial advice, legal counsel, medical diagnosis, treatment, or any regulated professional service. The author acts solely as an individual creator, and no institutional relationship exists.
+The material provided consists solely of visualizations and educational content for personal self‑improvement. It does not constitute financial advice, legal counsel, medical diagnosis, treatment, or any other regulated professional service. The author contributes solely as an individual creator, with no institutional relationship.
