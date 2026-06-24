@@ -24,14 +24,10 @@ This repo contains Postcard Visualizations—static images representing the ener
 
 These techniques are designed for personal wellness and self-improvement to access deeper mental clarity. If you have questions about whether this approach is right for you, please reach out.
 
-## Connect and Learn More
-
-We invite professional charity organizations and non-profits to participate in a pilot program featuring innovative wellness tools designed to foster clarity and positive mental states.
-
 ## Disclosure and Independent Status
 
 Fluxpuls is a personal initiative focused on AI, research, and creative exploration. The project is developed entirely in the author’s spare time as an independent creative endeavor.
 
-It operates without any affiliation, partnership, or endorsement from financial institutions, government entities (including the State of New York or City of New York), charities, non‑profits, or other organizations. No proprietary tools, methodologies, intellectual property, client data, or resources from external entities are used in this project.
+It operates without any affiliation, partnership, or endorsement from financial institutions, government entities or other organizations. No proprietary tools, methodologies, intellectual property, client data, or resources from external entities are used in this project.
 
 The material provided consists solely of visualizations and educational content for personal self‑improvement. It does not constitute financial advice, legal counsel, medical diagnosis, treatment, or any other regulated professional service. The author contributes solely as an individual creator, with no institutional relationship.
