@@ -19,6 +19,8 @@ This repo contains Postcard Visualizations—static images representing the ener
 - YouTube Channel: https://www.youtube.com/@PositiveIntuitiveCoaching
 - AI Tools: https://fluxpuls.github.io/AI-In-Browser/
 - Visualization Gallery: https://github.com/fluxpuls/subconscious-recalibration
+- Subconscious Recalibration Book:
+https://www.amazon.com/dp/B0HCM99WPF/
 
 ## Important Notes
 
