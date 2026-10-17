@@ -20,6 +20,7 @@ This repo contains Postcard Visualizations—static images representing the ener
 - AI Tools: https://fluxpuls.github.io/AI-In-Browser/
 - Visualization Gallery: https://github.com/fluxpuls/subconscious-recalibration
 - [Subconscious Recalibration Book](https://github.com/ml-ai-lab/My-Bookshelf/blob/main/SR%20KYRA%20MICHEL.pdf#:~:text=SR%20KYRA-,MICHEL.pdf)
+- [Cosmic Journey Book](https://github.com/ml-ai-lab/My-Bookshelf/blob/main/COSMIC%20JOURNEY%20KYRA%20MICHEL.pdf#:~:text=COSMIC-,JOURNEY,-KYRA%20MICHEL.pdf)
 
 ## Important Notes
 
